@@ -21,7 +21,7 @@ The reports in this repository cover:
 - Analysis of variance (ANOVA)
 - Spatial autocorrelation using GeoDa
 
-Each PDF documents the analysis workflow, results, and interpretation.
+Each PDF documents the analysis, results, and interpretation.
 
 ---
 
