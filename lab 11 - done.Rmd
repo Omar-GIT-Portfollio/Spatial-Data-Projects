@@ -1,5 +1,5 @@
 ---
-title: 'Lab 11: Geometry operations'
+title: 'Geometry operations'
 author: "Omar Ali"
 date: "`r Sys.Date()`"
 output: html_document
@@ -302,4 +302,5 @@ st_area(us_states2_sf)/1000000
 ```{r}
 
 ```
+
 
